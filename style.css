@@ -1,0 +1,23 @@
+html{
+  height: 100%;
+  width: 100%;
+}
+
+h1{
+  padding:20px;
+  color:beige;
+  background-color:darkcyan
+}
+
+p{
+padding:30px;
+  color:darkred;
+  background-color:black;
+}
+
+button{
+  padding:30px;
+  border-radius: 15px;
+  background-color:darkgreen;
+  color:black;
+  }
